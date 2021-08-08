@@ -1,0 +1,14 @@
+table {border: thin solid;}
+th, td {border: thin solid; padding: 10px;}
+thead th {background-color: red;}
+thead td {background-color: rgb(241, 237, 237);}
+
+
+.center {
+    display: flex;
+     justify-content: center;
+}
+.caption{
+    padding: 5px;
+
+}
